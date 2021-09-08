@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace NullObjectPattern.Model {
+﻿namespace NullObjectPattern.Model {
   class NullBook : Book {
     internal NullBook() { }
 
